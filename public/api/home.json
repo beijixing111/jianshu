@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [{
+      "id": 1,
+      "title": "社会热点",
+      "imgUrl": "https://upload.jianshu.io/users/upload_avatars/8781442/79bf6acc-5dd3-49d1-9e2b-6c58066c1442.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    }, {
+      "id": 2,
+      "title": "手绘",
+      "imgUrl": "https://upload.jianshu.io/users/upload_avatars/8781442/79bf6acc-5dd3-49d1-9e2b-6c58066c1442.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    }],
+    "articleList": [{
+      "id": 1,
+      "title": "七年程序员炫耀：阿里跳槽拼多多，80万涨到160万！值不值得去？",
+      "desc": "现在有很多的人都想要拥有一份自己满意的，还要有前途的，或者是工资高的，但是还不累的。一名阿里的程序员在互联网社区交流跳槽心得时，文字间透着一股炫",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/13133049-2f999c78c8661c41.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    }, {
+      "id": 2,
+      "title": "七年程序员炫耀：阿里跳槽拼多多，80万涨到160万！值不值得去？",
+      "desc": "现在有很多的人都想要拥有一份自己满意的，还要有前途的，或者是工资高的，但是还不累的。一名阿里的程序员在互联网社区交流跳槽心得时，文字间透着一股炫",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/13133049-2f999c78c8661c41.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    }, {
+      "id": 3,
+      "title": "七年程序员炫耀：阿里跳槽拼多多，80万涨到160万！值不值得去？",
+      "desc": "现在有很多的人都想要拥有一份自己满意的，还要有前途的，或者是工资高的，但是还不累的。一名阿里的程序员在互联网社区交流跳槽心得时，文字间透着一股炫",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/13133049-2f999c78c8661c41.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    }],
+    "recommendList": [{
+      "id": 1,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+    }, {
+      "id": 2,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+    }, {
+      "id": 3,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    }, {
+      "id": 4,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+    }, {
+      "id": 5,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+    }]
+  }
+}
