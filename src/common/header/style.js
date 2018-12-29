@@ -9,7 +9,7 @@ export const HeaderContent = styled.div `
 	width: 100%; background: ${Color.white};
 	height: ${headerHeight}px; 
 	border-bottom: 1px solid #f0f0f0;
-	z-index: 1; margin-bottom: 20px;
+	z-index: 200; margin-bottom: 20px;
 `;
 
 export const HeaderWrapper = styled.div `

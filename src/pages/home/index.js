@@ -19,11 +19,11 @@ import {
 
 const imagesArr = [
   {
-    original: 'https://upload.jianshu.io/admin_banners/web_images/4593/fa5490809ff3344c5aa72312aa1e05921be77222.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540',
+    original: require('../../statics/images/banner01.jpg'),
     bulletClass: 'shadow-none'
   },
   {
-    original: 'https://upload.jianshu.io/admin_banners/web_images/4592/cf654520e7f42e40995f6b1fade64846e0b1fb6a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540',
+    original: require('../../statics/images/banner02.jpg'),
     bulletClass: 'shadow-none'
   }
 ];
